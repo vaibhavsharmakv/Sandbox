@@ -22,7 +22,7 @@ def days_in_month(year, month):
 
     return month_days[month]
 
-print(days_in_month(2017, 2))"""
+print(days_in_month(2017, 2))"""""
 #--------------------------------------------------------------------------------
 # Number of days per month. First value placeholder for indexing purposes.
 month_days = [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
